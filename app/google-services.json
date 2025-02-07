@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88047474427",
+    "firebase_url": "https://easyaccess-65959-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "easyaccess-65959",
+    "storage_bucket": "easyaccess-65959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88047474427:android:5a494e3eed828e871ec25e",
+        "android_client_info": {
+          "package_name": "com.example.myhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88047474427-q1pc96u5hopff95pef1ucd69jegsqlm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myhelper",
+            "certificate_hash": "5ed7b3a1d353b5a3bc92458a3ac21f7bc966db6e"
+          }
+        },
+        {
+          "client_id": "88047474427-713trto6q6njipu33c80i6acbvd11k5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE0CChgohOw48szV53TqgFxbhrj4qUUrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88047474427-713trto6q6njipu33c80i6acbvd11k5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
